@@ -1,1 +1,1 @@
-My journey to software engineering.
+My journey to become a software engineer.
